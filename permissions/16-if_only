@@ -1,4 +1,2 @@
 #!/bin/bash
-if [id -n = "guillaume"]
-then chown hello vincent
-     
+chown --from=hello vincent guillaume
