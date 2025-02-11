@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x 2 holberton holberton 4096 feb 11 16:16 .
+drwxrwxr-x 6 holberton holberton 4096 feb 11 13:32 ..
+-rwxrwxr-x 1 holberton holberton   32 feb 11 13:40 0-hello_world
+-rwxrwxr-x 1 holberton holberton   28 feb 11 13:52 1-confused_smiley
+-rwxrwxr-x 1 holberton holberton   28 feb 11 14:10 2-hellofile
+-rwxrwxr-x 1 holberton holberton   39 feb 11 14:21 3-twofiles
+-rwxrwxr-x 1 holberton holberton   35 feb 11 14:26 4-lastlines
+-rwxrwxr-x 1 holberton holberton   35 feb 11 14:30 5-firstlines
+-rwxrwxr-x 1 holberton holberton   40 feb 11 14:39 6-third_line
+-rwxrwxr-x 1 holberton holberton   99 feb 11 14:54 7-file
+-rwxrwxr-x 1 holberton holberton   36 feb 11 16:15 8-cwd_state
+-rw-rw-r-- 1 holberton holberton    0 feb 11 16:16 ls_cwd_content
+-rw-rw-r-- 1 holberton holberton   13 feb 11 13:39 README.md
