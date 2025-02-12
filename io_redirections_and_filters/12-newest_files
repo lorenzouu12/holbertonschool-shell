@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lt --time=modify | grep -v ^d' | head -n 10
